@@ -1,4 +1,4 @@
-print('4. Faça um Programa que verifique se uma letra digitada é vogal ou consoante.\n')
+'''4. Faça um Programa que verifique se uma letra digitada é vogal ou consoante.'''
 
 entrada_usuario = str(input('Digite uma letra: ')).upper()
 
